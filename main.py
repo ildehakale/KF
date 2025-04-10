@@ -1,5 +1,5 @@
 # Numpy, pytest, matplotlib, ipython  -> library
-
+https://www.youtube.com/watch?v=m5Bw1m8jJuY&list=PLvKAPIGzFEr8n7WRx8RptZmC1rXeTzYtA&index=3
 import numpy as np
 from unittest 
 
